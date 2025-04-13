@@ -1,0 +1,107 @@
+{
+    "general": {
+      "currency": "MAD",
+      "shopNow": "Acheter maintenant",
+      "discoverMore": "Découvrir plus",
+      "contactUs": "Contactez-nous"
+    },
+    "header": {
+      "home": "Accueil",
+      "about": "À propos",
+      "products": "Produits",
+      "sewingSupplies": "Fournitures de couture",
+      "workshop": "Atelier",
+      "blog": "Blog",
+      "contact": "Contact",
+      "cart": "Panier",
+      "search": "Recherche",
+      "favorites": "Favoris",
+      "menu": "Menu"
+    },
+    "hero": {
+      "discover": "Découvrez le monde de la créativité et de la broderie.",
+      "title": "Les meilleures fournitures de couture et de broderie à portée de main.",
+      "subtitle": "Perles, paillettes et pierres pour des créations sans limites."
+    },
+    "categories": {
+      "title": "Achetez par catégorie",
+      "subtitle": "Des fournitures variées pour des créations uniques",
+      "beads": "Rocailles",
+      "sequins": "Paillettes",
+      "braids": "Galons",
+      "pearls": "Perles",
+      "stones": "Pierres à coudre",
+      "tools": "Outils de couture",
+      "accessories": "Accessoires",
+      "kits": "Kits"
+    },
+    "products": {
+      "beadsSequins": "Rocailles et paillettes",
+      "braidsAndPearls": "Galons et perles",
+      "sewingStones": "Pierres à coudre"
+    },
+    "excellence": {
+      "title": "L'expérience excellence",
+      "easyReturn": {
+        "title": "Retour facile",
+        "description": "Votre satisfaction est notre priorité, nous facilitons les retours pour une expérience d'achat confortable."
+      },
+      "fastDelivery": {
+        "title": "Livraison rapide",
+        "description": "Nous garantissons la livraison rapide et sécurisée de votre commande à votre porte."
+      },
+      "elegantPackaging": {
+        "title": "Emballage élégant",
+        "description": "Nous présentons nos produits dans des emballages élégants qui préservent leur qualité."
+      },
+      "highQuality": {
+        "title": "Haute qualité",
+        "description": "Nous sélectionnons soigneusement nos produits pour vous garantir la meilleure qualité possible."
+      }
+    },
+    "promotion": {
+      "discount": "Réduction de 10%",
+      "title": "Sur tous les produits de rocailles et paillettes",
+      "description": "Profitez de notre offre exceptionnelle et obtenez 10% de réduction sur tous les produits de rocailles et paillettes."
+    },
+    "location": {
+      "title": "Notre emplacement",
+      "subtitle": "Visitez-nous en magasin",
+      "description": "Nous vous accueillons dans notre magasin pour découvrir notre gamme complète de produits de couture et de broderie. Notre équipe est prête à vous aider et à choisir les produits adaptés à vos projets.",
+      "address": {
+        "title": "Adresse",
+        "value": "Fès, Maroc",
+        "directions": "Itinéraire sur la carte"
+      },
+      "phone": {
+        "title": "Téléphone"
+      },
+      "email": {
+        "title": "Email"
+      },
+      "hours": {
+        "title": "Heures d'ouverture",
+        "weekdays": "Lundi - Samedi: 9:00 - 19:00",
+        "sunday": "Dimanche: Fermé"
+      }
+    },
+    "footer": {
+      "description": "Spécialistes des fournitures de couture et de broderie depuis 2010. Des produits variés pour des créations sans limites.",
+      "categories": "Catégories",
+      "information": "Informations",
+      "about": "À propos",
+      "delivery": "Livraison",
+      "terms": "Conditions générales",
+      "privacy": "Politique de confidentialité",
+      "faq": "FAQ",
+      "blog": "Blog",
+      "news": "Actualités",
+      "contact": "Contact",
+      "rights": "Tous droits réservés"
+    },
+    "language": {
+      "ar": "Arabe",
+      "fr": "Français"
+    }
+  }
+  

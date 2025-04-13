@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --gold-300: #f0d082;
+  --gold-400: #e9c46a;
+  --gold-500: #d4af37;
+  --gold-600: #c5a028;
+  --gold-700: #b08c1e;
+}
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-playfair;
+  }
+}
+
+.font-serif {
+  font-family: var(--font-playfair);
+}
+
+.font-sans {
+  font-family: var(--font-inter);
+}
+
+.font-cormorant {
+  font-family: var(--font-cormorant);
+}
+
+.text-gold-300 {
+  color: var(--gold-300);
+}
+
+.text-gold-500 {
+  color: var(--gold-500);
+}
+
+.bg-gold-500 {
+  background-color: var(--gold-500);
+}
+
+.bg-gold-600 {
+  background-color: var(--gold-600);
+}
+
+.hover\:bg-gold-600:hover {
+  background-color: var(--gold-600);
+}
+
+.hover\:text-gold-300:hover {
+  color: var(--gold-300);
+}
+
+.border-gold-500 {
+  border-color: var(--gold-500);
+}
+
