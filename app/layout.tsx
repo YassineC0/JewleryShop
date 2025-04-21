@@ -32,6 +32,7 @@ export const metadata: Metadata = {
 export default function RootLayout({
   children,
 }: Readonly<{
+<<<<<<< HEAD
   children: React.ReactNode
 }>) {
   return (
@@ -44,3 +45,17 @@ export default function RootLayout({
 
 
 import './globals.css'
+=======
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="en">
+      <body
+        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+      >
+        {children}
+      </body>
+    </html>
+  );
+}
+>>>>>>> 728efd1587c5b589dd430990b2c882dc11bdcb64
