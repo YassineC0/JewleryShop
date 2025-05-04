@@ -1,6 +1,6 @@
 import type React from "react"
 import type { Metadata } from "next"
-import { Inter, Playfair_Display, Cormorant_Garamond } from "next/font/google"
+import { Inter, Playfair_Display, Cormorant_Garamond } from 'next/font/google'
 import "./globals.css"
 
 const inter = Inter({
@@ -26,13 +26,11 @@ export const metadata: Metadata = {
   title: "STRASS SHOP | Bijouterie de Luxe",
   description:
     "Découvrez l'excellence en bijouterie avec STRASS SHOP. Tradition et élégance réunies dans chaque création.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
   children,
 }: Readonly<{
-<<<<<<< HEAD
   children: React.ReactNode
 }>) {
   return (
@@ -41,21 +39,3 @@ export default function RootLayout({
     </html>
   )
 }
-
-
-
-import './globals.css'
-=======
-  children: React.ReactNode;
-}>) {
-  return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
-    </html>
-  );
-}
->>>>>>> 728efd1587c5b589dd430990b2c882dc11bdcb64
